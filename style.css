@@ -7,7 +7,7 @@
 body{
     font-family: 'poppins', sans-serif;
     background-color: #F2F9FE;
-
+    height: 100%;
 }
 
 
@@ -61,7 +61,7 @@ body{
 
 
 .main-container{
-    margin: 5% 30px;
+    margin: 30px;
 }
 
 .section-content .info{
